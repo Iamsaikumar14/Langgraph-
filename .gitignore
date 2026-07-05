@@ -1,0 +1,20 @@
+# Virtual environments
+myenv/
+.venv/
+venv/
+ENV/
+
+# Python cache
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# macOS files
+.DS_Store
+
+# Temporary scripts
+append_loop.py
+create_notebook.py
